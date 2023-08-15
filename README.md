@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasread99)](https://github.com/thomasread99/github-readme-stats)
 <!--
 **thomasread99/thomasread99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
